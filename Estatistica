@@ -1,0 +1,5 @@
+public class Estatistica{
+  public static void main(String []args){
+    Sistem.out.println("Caio transa com a bunda");
+  }
+}
